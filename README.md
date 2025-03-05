@@ -1,2 +1,2 @@
 # Bomdama
-jsp%BS4 potfol
+jsp&BS4 potfol
